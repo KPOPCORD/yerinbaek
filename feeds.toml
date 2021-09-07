@@ -1,9 +1,0 @@
-[melon_fan]
-title = "멜론 백예린 팬맺기 수"
-url = "https://www.melon.com/mymusic/main/mymusicmainother_list.htm?memberKey=58981915"
-entrySelector = "ul.list_atist13 li"
-titleSelector = "span.cnt_span"
-linkSelector = "a"
-imageSelector = "div.wrap_atist13 img"
-contentSelector = "dt a"
-waitUntil = "networkidle"
