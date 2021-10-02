@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 15:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 16:57:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[157,263 (멜론 백예린 팬맺기 수)]]></title>
+            <title><![CDATA[157,275 (멜론 백예린 팬맺기 수)]]></title>
             <link>javascript:melon.link.goArtistDetail('698776');</link>
             <guid>javascript:melon.link.goArtistDetail('698776');</guid>
             <pubDate>Tue, 07 Sep 2021 12:29:43 GMT</pubDate>
@@ -24,7 +24,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/007/21/980/721980_20210528173846.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[31 (멜론 백예린 팬맺기 수)]]></title>
+            <title><![CDATA[32 (멜론 백예린 팬맺기 수)]]></title>
             <link>javascript:melon.link.goArtistDetail('869217');</link>
             <guid>javascript:melon.link.goArtistDetail('869217');</guid>
             <pubDate>Tue, 07 Sep 2021 12:29:43 GMT</pubDate>
@@ -32,7 +32,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/008/69/217/869217_20210528173924.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[17 (멜론 백예린 팬맺기 수)]]></title>
+            <title><![CDATA[18 (멜론 백예린 팬맺기 수)]]></title>
             <link>javascript:melon.link.goArtistDetail('2940276');</link>
             <guid>javascript:melon.link.goArtistDetail('2940276');</guid>
             <pubDate>Tue, 07 Sep 2021 12:29:43 GMT</pubDate>
