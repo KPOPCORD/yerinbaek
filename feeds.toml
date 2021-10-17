@@ -1,6 +1,16 @@
 [melonticket]
-title = "멜론 티켓 ─ 백예린"
+title = "멜론 티켓 ─ 백예린 (Yerin Baek)"
 url = "https://ticket.melon.com/artist/index.htm?artistId=698776"
+entrySelector = "table.tbl.tbl_style02 tbody tr"
+titleSelector = "span.show_title"
+linkSelector = "span.show_title a"
+contentSelector = "td.show_date"
+imageSelector = "div.thumb_90x125.img a img"
+waitUntil = "networkidle"
+
+[melonticket_tvt]
+title = "멜론 티켓 ─ The Volunteers (더 발룬티어스)"
+url = "https://ticket.melon.com/artist/index.htm?artistId=2940086"
 entrySelector = "table.tbl.tbl_style02 tbody tr"
 titleSelector = "span.show_title"
 linkSelector = "span.show_title a"
@@ -16,4 +26,15 @@ titleSelector = "span.cnt_span"
 linkSelector = "a"
 imageSelector = "div.wrap_atist13 img"
 contentSelector = "dt a"
+waitUntil = "networkidle"
+
+
+[melon_yerinbaek]
+title = "멜론 ─ 백예린 (Yerin Baek)"
+url = "https://www.melon.com/artist/timeline.htm?artistId=698776"
+entrySelector = "div.dtl_atist.clfix"
+titleSelector = "span.cnt_fan_b span.cnt_span span.no"
+linkSelector = "a"
+imageSelector = "span[id='artistImgArea'] img"
+contentSelector = "p.title_atist"
 waitUntil = "networkidle"
