@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 ─ 백예린 (Yerin Baek)</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 17 Oct 2021 13:48:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[158,304]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 17 Oct 2021 13:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="none">아티스트명</strong>백예린 (Yerin Baek)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/006/98/776/698776_20210910114739_500.jpg?33876627dc44f6064b902796a8964c68/melon/resize/416/quality/80/optimize" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
