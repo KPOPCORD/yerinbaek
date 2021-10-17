@@ -37,3 +37,14 @@ linkSelector = "a.d_temp_more"
 imageSelector = "span[id='artistImgArea'] img"
 contentSelector = "p.title_atist"
 waitUntil = "networkidle"
+
+[melon_tvt]
+title = "멜론 ─ The Volunteers (더 발룬티어스)"
+url = "https://www.melon.com/artist/timeline.htm?artistId=2940086"
+entrySelector = "div.dtl_atist.clfix"
+titleSelector = "span.cnt_fan_b span.cnt_span span.no"
+linkSelector = "a.d_temp_more"
+imageSelector = "span[id='artistImgArea'] img"
+contentSelector = "p.title_atist"
+waitUntil = "networkidle"
+
