@@ -28,7 +28,6 @@ imageSelector = "div.wrap_atist13 img"
 contentSelector = "dt a"
 waitUntil = "networkidle"
 
-
 [melon_yerinbaek]
 title = "멜론 ─ 백예린 (Yerin Baek)"
 url = "https://www.melon.com/artist/timeline.htm?artistId=698776"
