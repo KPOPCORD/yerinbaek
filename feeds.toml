@@ -1,3 +1,13 @@
+[melonticket]
+title = "멜론 티켓 ─ 백예린"
+url = "https://ticket.melon.com/artist/index.htm?artistId=698776"
+entrySelector = "table.tbl.tbl_style02 tbody tr"
+titleSelector = "span.show_title"
+linkSelector = "span.show_title a"
+contentSelector = "td.show_date"
+imageSelector = "div.thumb_90x125.img a img"
+waitUntil = "networkidle"
+
 [melon_fan]
 title = "멜론 백예린 팬맺기 수"
 url = "https://www.melon.com/mymusic/main/mymusicmainother_list.htm?memberKey=58981915"
