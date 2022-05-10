@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 03:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 04:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110051755276d40d2e6-5543-448c-91e1-dd3a70ee9e33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[168,516 (멜론 백예린 팬맺기 수)]]></title>
+            <title><![CDATA[168,517 (멜론 백예린 팬맺기 수)]]></title>
             <link>javascript:melon.link.goArtistDetail('698776');</link>
             <guid>javascript:melon.link.goArtistDetail('698776');</guid>
             <pubDate>Mon, 27 Dec 2021 10:25:42 GMT</pubDate>
@@ -61,7 +61,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/006/98/776/698776_20210910114739.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11,531 (멜론 백예린 팬맺기 수)]]></title>
+            <title><![CDATA[11,532 (멜론 백예린 팬맺기 수)]]></title>
             <link>javascript:melon.link.goArtistDetail('721980');</link>
             <guid>javascript:melon.link.goArtistDetail('721980');</guid>
             <pubDate>Mon, 27 Dec 2021 10:25:42 GMT</pubDate>
@@ -85,7 +85,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/029/40/276/2940276_20210528174032.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[168,516 (멜론 ─ 백예린 (Yerin Baek))]]></title>
+            <title><![CDATA[168,517 (멜론 ─ 백예린 (Yerin Baek))]]></title>
             <link>https://www.melon.com/artist/timeline.htm?artistId=698776#</link>
             <guid>https://www.melon.com/artist/timeline.htm?artistId=698776#</guid>
             <pubDate>Mon, 27 Dec 2021 10:25:51 GMT</pubDate>
