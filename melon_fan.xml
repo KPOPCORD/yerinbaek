@@ -4,11 +4,11 @@
         <title>멜론 백예린 팬맺기 수</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 01:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 03:56:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[173,712]]></title>
+            <title><![CDATA[173,720]]></title>
             <link>javascript:melon.link.goArtistDetail('698776');</link>
             <guid>javascript:melon.link.goArtistDetail('698776');</guid>
             <pubDate>Mon, 27 Dec 2021 10:25:42 GMT</pubDate>
@@ -21,7 +21,7 @@
             <guid>javascript:melon.link.goArtistDetail('721980');</guid>
             <pubDate>Mon, 27 Dec 2021 10:25:42 GMT</pubDate>
             <content:encoded><![CDATA[구름]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/007/21/980/721980_20210528173846.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/007/21/980/721980_20220712112658.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[47]]></title>
@@ -29,7 +29,7 @@
             <guid>javascript:melon.link.goArtistDetail('869217');</guid>
             <pubDate>Mon, 27 Dec 2021 10:25:42 GMT</pubDate>
             <content:encoded><![CDATA[곽민혁]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/008/69/217/869217_20210528173924.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/008/69/217/869217_20220712113100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[35]]></title>
@@ -37,7 +37,7 @@
             <guid>javascript:melon.link.goArtistDetail('2940276');</guid>
             <pubDate>Mon, 27 Dec 2021 10:25:42 GMT</pubDate>
             <content:encoded><![CDATA[김치헌]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/029/40/276/2940276_20210528174032.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/029/40/276/2940276_20220712113207.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
