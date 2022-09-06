@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 17:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 18:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110051755276d40d2e6-5543-448c-91e1-dd3a70ee9e33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[175,554 (멜론 백예린 팬맺기 수)]]></title>
+            <title><![CDATA[175,526 (멜론 백예린 팬맺기 수)]]></title>
             <link>javascript:melon.link.goArtistDetail('698776');</link>
             <guid>javascript:melon.link.goArtistDetail('698776');</guid>
             <pubDate>Wed, 24 Aug 2022 09:13:43 GMT</pubDate>
@@ -85,7 +85,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/029/40/276/2940276_20220712113207.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[175,554 (멜론 ─ 백예린 (Yerin Baek))]]></title>
+            <title><![CDATA[175,526 (멜론 ─ 백예린 (Yerin Baek))]]></title>
             <link>https://www.melon.com/artist/timeline.htm?artistId=698776#</link>
             <guid>https://www.melon.com/artist/timeline.htm?artistId=698776#</guid>
             <pubDate>Wed, 24 Aug 2022 09:13:52 GMT</pubDate>
