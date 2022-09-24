@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.melon.com/mymusic/main/mymusicmainother_list.htm?memberKey=58981915</id>
-    <title>멜론 백예린 팬맺기 수</title>
-    <updated>2022-09-24T01:24:08.505Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.melon.com/mymusic/main/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 백예린 팬맺기 수</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 24 Sep 2022 04:13:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[175,900]]></title>
+            <link>javascript:melon.link.goArtistDetail('698776');</link>
+            <guid>javascript:melon.link.goArtistDetail('698776');</guid>
+            <pubDate>Sat, 24 Sep 2022 04:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[백예린 (Yerin Baek)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/006/98/776/698776_20220523172513.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[11,841]]></title>
+            <link>javascript:melon.link.goArtistDetail('721980');</link>
+            <guid>javascript:melon.link.goArtistDetail('721980');</guid>
+            <pubDate>Sat, 24 Sep 2022 04:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[구름]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/007/21/980/721980_20220712112658.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[51]]></title>
+            <link>javascript:melon.link.goArtistDetail('869217');</link>
+            <guid>javascript:melon.link.goArtistDetail('869217');</guid>
+            <pubDate>Sat, 24 Sep 2022 04:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[곽민혁]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/008/69/217/869217_20220712113100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[40]]></title>
+            <link>javascript:melon.link.goArtistDetail('2940276');</link>
+            <guid>javascript:melon.link.goArtistDetail('2940276');</guid>
+            <pubDate>Sat, 24 Sep 2022 04:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[김치헌]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/029/40/276/2940276_20220712113207.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
