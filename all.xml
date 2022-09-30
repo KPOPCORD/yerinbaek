@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 11:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 12:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[176,052 (멜론 백예린 팬맺기 수)]]></title>
+            <title><![CDATA[176,053 (멜론 백예린 팬맺기 수)]]></title>
             <link>javascript:melon.link.goArtistDetail('698776');</link>
             <guid>javascript:melon.link.goArtistDetail('698776');</guid>
             <pubDate>Fri, 30 Sep 2022 11:13:55 GMT</pubDate>
