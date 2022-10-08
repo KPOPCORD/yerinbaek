@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 ─ The Volunteers (더 발룬티어스)</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 08 Oct 2022 15:16:11 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[0]]></title>
-            <link>https://www.melon.com/artist/timeline.htm?artistId=2940086#</link>
-            <guid>https://www.melon.com/artist/timeline.htm?artistId=2940086#</guid>
-            <pubDate>Sat, 08 Oct 2022 15:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="none">아티스트명</strong>The Volunteers (더 발룬티어스)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/029/40/086/2940086_20220712112417_500.jpg?c0e8548ba80dd197a771a63148b568b2/melon/resize/416/quality/80/optimize" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.melon.com/artist/timeline.htm?artistId=2940086</id>
+    <title>멜론 ─ The Volunteers (더 발룬티어스)</title>
+    <updated>2022-10-08T16:20:58.894Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.melon.com/artist/favicon.ico</icon>
+</feed>
