@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 ─ 백예린 (Yerin Baek)</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 20 Oct 2022 21:15:58 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[0]]></title>
-            <link>https://www.melon.com/artist/timeline.htm?artistId=698776#</link>
-            <guid>https://www.melon.com/artist/timeline.htm?artistId=698776#</guid>
-            <pubDate>Thu, 20 Oct 2022 21:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="none">아티스트명</strong>백예린 (Yerin Baek)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/006/98/776/698776_20220523172513_500.jpg?c2ae32b13003be3d0deea218d08ea28b/melon/resize/416/quality/80/optimize" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.melon.com/artist/timeline.htm?artistId=698776</id>
+    <title>멜론 ─ 백예린 (Yerin Baek)</title>
+    <updated>2022-10-20T22:17:08.350Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.melon.com/artist/favicon.ico</icon>
+</feed>
