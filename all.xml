@@ -4,33 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Oct 2022 17:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 18:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[176,357 (멜론 백예린 팬맺기 수)]]></title>
-            <link>javascript:melon.link.goArtistDetail('698776');</link>
-            <guid>javascript:melon.link.goArtistDetail('698776');</guid>
-            <pubDate>Sat, 29 Oct 2022 17:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[백예린 (Yerin Baek)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/006/98/776/698776_20220523172513.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11,894 (멜론 백예린 팬맺기 수)]]></title>
-            <link>javascript:melon.link.goArtistDetail('721980');</link>
-            <guid>javascript:melon.link.goArtistDetail('721980');</guid>
-            <pubDate>Sat, 29 Oct 2022 17:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[구름]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/007/21/980/721980_20220712112658.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[51 (멜론 백예린 팬맺기 수)]]></title>
-            <link>javascript:melon.link.goArtistDetail('869217');</link>
-            <guid>javascript:melon.link.goArtistDetail('869217');</guid>
-            <pubDate>Sat, 29 Oct 2022 17:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[곽민혁]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/008/69/217/869217_20220712113100.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[0 (멜론 ─ 백예린 (Yerin Baek))]]></title>
             <link>https://www.melon.com/artist/timeline.htm?artistId=698776#</link>
