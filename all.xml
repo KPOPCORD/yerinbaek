@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 30 Oct 2022 03:51:38 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[0 (멜론 ─ 백예린 (Yerin Baek))]]></title>
-            <link>https://www.melon.com/artist/timeline.htm?artistId=698776#</link>
-            <guid>https://www.melon.com/artist/timeline.htm?artistId=698776#</guid>
-            <pubDate>Sun, 30 Oct 2022 03:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="none">아티스트명</strong>백예린 (Yerin Baek)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/006/98/776/698776_20220523172513_500.jpg?c2ae32b13003be3d0deea218d08ea28b/melon/resize/416/quality/80/optimize" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[0 (멜론 ─ The Volunteers (더 발룬티어스))]]></title>
-            <link>https://www.melon.com/artist/timeline.htm?artistId=2940086#</link>
-            <guid>https://www.melon.com/artist/timeline.htm?artistId=2940086#</guid>
-            <pubDate>Sun, 30 Oct 2022 01:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="none">아티스트명</strong>The Volunteers (더 발룬티어스)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/029/40/086/2940086_20220712112417_500.jpg?c0e8548ba80dd197a771a63148b568b2/melon/resize/416/quality/80/optimize" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://KPOPCORD.github.io/yerinbaek/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2022-10-30T04:44:43.081Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+</feed>
