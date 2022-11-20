@@ -4,7 +4,7 @@
         <title>멜론 백예린 팬맺기 수</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 11:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 12:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/006/98/776/698776_20220523172513.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11,913]]></title>
+            <title><![CDATA[11,914]]></title>
             <link>javascript:melon.link.goArtistDetail('721980');</link>
             <guid>javascript:melon.link.goArtistDetail('721980');</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:03 GMT</pubDate>
