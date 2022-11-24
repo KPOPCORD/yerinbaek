@@ -4,63 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 14:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 15:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[백예린 단독공연 “Turn on that Blue Vinyl” (멜론 티켓 ─ 백예린 (Yerin Baek))]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=204890</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=204890</guid>
-            <pubDate>Thu, 24 Nov 2022 08:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- @@@ 2016.02.01 class명 추가 -->
-                                        2020.02.08 - 2020.02.09<!--2015.12.03 ~<br>2015.12.20-->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2020/01/202001021115273ed55f60-45e9-48a8-b027-49aedb54b6c8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2019 부산국제록페스티벌 (멜론 티켓 ─ 백예린 (Yerin Baek))]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=203586</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=203586</guid>
-            <pubDate>Thu, 24 Nov 2022 08:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- @@@ 2016.02.01 class명 추가 -->
-                                        2019.07.27 - 2019.07.28<!--2015.12.03 ~<br>2015.12.20-->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2019/06/20190619095750dc6bda3d-70cb-49aa-b1a2-f7d69ae066d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레인보우 뮤직＆캠핑 페스티벌 2019 (멜론 티켓 ─ 백예린 (Yerin Baek))]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=203375</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=203375</guid>
-            <pubDate>Thu, 24 Nov 2022 08:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- @@@ 2016.02.01 class명 추가 -->
-                                        2019.06.01 - 2019.06.02<!--2015.12.03 ~<br>2015.12.20-->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2019/04/20190409111416e62eb886-5ddb-4fb9-851c-7776be06917d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롤링 24주년 기념 공연 vol．14 프롬 ＆ 백예린 (멜론 티켓 ─ 백예린 (Yerin Baek))]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=202838</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=202838</guid>
-            <pubDate>Thu, 24 Nov 2022 08:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- @@@ 2016.02.01 class명 추가 -->
-                                        2019.02.16 - 2019.02.16<!--2015.12.03 ~<br>2015.12.20-->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2019/01/20190107093932a8dfd8e4-adac-4408-8dae-8f3125d96b00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제4회 슬로우라이프 슬로우라이브 2022 (멜론 티켓 ─ The Volunteers (더 발룬티어스))]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207048</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207048</guid>
-            <pubDate>Thu, 24 Nov 2022 08:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- @@@ 2016.02.01 class명 추가 -->
-                                        2022.10.08 - 2022.10.10<!--2015.12.03 ~<br>2015.12.20-->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220630094649c999040f-94c9-46fd-a882-15de1e4e8add.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Volunteers 단독공연 〈Join the TVT Club〉 (멜론 티켓 ─ The Volunteers (더 발룬티어스))]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206015</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206015</guid>
-            <pubDate>Thu, 24 Nov 2022 08:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- @@@ 2016.02.01 class명 추가 -->
-                                        2021.11.11 - 2021.11.21<!--2015.12.03 ~<br>2015.12.20-->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110051755276d40d2e6-5543-448c-91e1-dd3a70ee9e33.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[176,767 (멜론 백예린 팬맺기 수)]]></title>
             <link>javascript:melon.link.goArtistDetail('698776');</link>
@@ -102,7 +48,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/006/98/776/698776_20220523172513_500.jpg?c2ae32b13003be3d0deea218d08ea28b/melon/resize/416/quality/80/optimize" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[14,484 (멜론 ─ The Volunteers (더 발룬티어스))]]></title>
+            <title><![CDATA[14,485 (멜론 ─ The Volunteers (더 발룬티어스))]]></title>
             <link>https://www.melon.com/artist/timeline.htm?artistId=2940086#</link>
             <guid>https://www.melon.com/artist/timeline.htm?artistId=2940086#</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:21 GMT</pubDate>
