@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ The Volunteers (더 발룬티어스)</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 23:12:41 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제4회 슬로우라이프 슬로우라이브 2022]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207048</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207048</guid>
-            <pubDate>Sat, 26 Nov 2022 14:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- @@@ 2016.02.01 class명 추가 -->
-                                        2022.10.08 - 2022.10.10<!--2015.12.03 ~<br>2015.12.20-->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220630094649c999040f-94c9-46fd-a882-15de1e4e8add.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Volunteers 단독공연 〈Join the TVT Club〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206015</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206015</guid>
-            <pubDate>Sat, 26 Nov 2022 14:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- @@@ 2016.02.01 class명 추가 -->
-                                        2021.11.11 - 2021.11.21<!--2015.12.03 ~<br>2015.12.20-->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110051755276d40d2e6-5543-448c-91e1-dd3a70ee9e33.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/artist/index.htm?artistId=2940086</id>
+    <title>멜론 티켓 ─ The Volunteers (더 발룬티어스)</title>
+    <updated>2022-11-27T01:06:56.663Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/artist/favicon.ico</icon>
+</feed>
