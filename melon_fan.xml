@@ -4,7 +4,7 @@
         <title>멜론 백예린 팬맺기 수</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 05:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 06:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>javascript:melon.link.goArtistDetail('698776');</guid>
             <pubDate>Mon, 13 Nov 2023 19:09:28 GMT</pubDate>
             <content:encoded><![CDATA[백예린 (Yerin Baek)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/006/98/776/698776_20240619144452.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/006/98/776/698776_20240620145531.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[12,690]]></title>
@@ -29,7 +29,7 @@
             <guid>javascript:melon.link.goArtistDetail('869217');</guid>
             <pubDate>Mon, 13 Nov 2023 19:09:28 GMT</pubDate>
             <content:encoded><![CDATA[곽민혁]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/008/69/217/869217_20240619144606.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/008/69/217/869217_20240620145608.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[50]]></title>
@@ -37,7 +37,7 @@
             <guid>javascript:melon.link.goArtistDetail('2940276');</guid>
             <pubDate>Mon, 13 Nov 2023 19:09:28 GMT</pubDate>
             <content:encoded><![CDATA[김치헌]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/029/40/276/2940276_20240619144700.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/029/40/276/2940276_20240620145640.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

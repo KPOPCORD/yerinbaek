@@ -4,7 +4,7 @@
         <title>멜론 ─ 백예린 (Yerin Baek)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 05:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 06:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.melon.com/artist/timeline.htm?artistId=698776#</guid>
             <pubDate>Wed, 12 Jul 2023 23:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="none">아티스트명</strong>백예린 (Yerin Baek)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/006/98/776/698776_20240619144452_500.jpg?54c5962064da4b79cea182d89b392683/melon/resize/416/quality/80/optimize" length="0" type="image/jpg"/>
+            <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/006/98/776/698776_20240620145531_500.jpg?67827ed88a7097154bf3bccefa9409d8/melon/resize/416/quality/80/optimize" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
