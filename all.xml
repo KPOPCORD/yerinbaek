@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 06:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 07:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/006/98/776/698776_20240620145531_500.jpg?67827ed88a7097154bf3bccefa9409d8/melon/resize/416/quality/80/optimize" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[18,508 (멜론 ─ The Volunteers (더 발룬티어스))]]></title>
+            <title><![CDATA[18,509 (멜론 ─ The Volunteers (더 발룬티어스))]]></title>
             <link>https://www.melon.com/artist/timeline.htm?artistId=2940086#</link>
             <guid>https://www.melon.com/artist/timeline.htm?artistId=2940086#</guid>
             <pubDate>Wed, 12 Jul 2023 23:13:08 GMT</pubDate>
