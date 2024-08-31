@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Aug 2024 01:00:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Aug 2024 02:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[193,295 (멜론 백예린 팬맺기 수)]]></title>
+            <title><![CDATA[193,297 (멜론 백예린 팬맺기 수)]]></title>
             <link>javascript:melon.link.goArtistDetail('698776');</link>
             <guid>javascript:melon.link.goArtistDetail('698776');</guid>
             <pubDate>Wed, 12 Jul 2023 23:12:53 GMT</pubDate>
@@ -40,7 +40,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/029/40/276/2940276_20240620145640.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[193,295 (멜론 ─ 백예린 (Yerin Baek))]]></title>
+            <title><![CDATA[193,297 (멜론 ─ 백예린 (Yerin Baek))]]></title>
             <link>https://www.melon.com/artist/timeline.htm?artistId=698776#</link>
             <guid>https://www.melon.com/artist/timeline.htm?artistId=698776#</guid>
             <pubDate>Wed, 12 Jul 2023 23:13:00 GMT</pubDate>
@@ -48,7 +48,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/cm2/artistcrop/images/006/98/776/698776_20240620145531_500.jpg?67827ed88a7097154bf3bccefa9409d8/melon/resize/416/quality/80/optimize" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[18,516 (멜론 ─ The Volunteers (더 발룬티어스))]]></title>
+            <title><![CDATA[18,517 (멜론 ─ The Volunteers (더 발룬티어스))]]></title>
             <link>https://www.melon.com/artist/timeline.htm?artistId=2940086#</link>
             <guid>https://www.melon.com/artist/timeline.htm?artistId=2940086#</guid>
             <pubDate>Wed, 12 Jul 2023 23:13:08 GMT</pubDate>
